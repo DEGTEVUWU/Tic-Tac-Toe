@@ -13,10 +13,10 @@ Good luck!
 
 ### To run, use: ###
 
-Just run the App class from any development environment
+Just run the App class from any development environment  
 
 
-
+__Watch a short video about how the game looks and works!__
 
 https://github.com/DEGTEVUWU/Tic-Tac-Toe/assets/148809450/5799a97c-42dd-4e95-b705-488c35a891d5
 
